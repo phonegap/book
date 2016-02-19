@@ -6,11 +6,24 @@ title: PhoneGap Books
 <div class="bounds--blog">
   <div class="blog-post__preview-list">
     <!-- This loops through the posts -->
-    <ul>
     {% for post in site.posts %}
-      <li>{{ post.title }}</li>
+      <article>
+        <header>
+          <h1>{{ post.title }}</h1>
+          {% if jekyll.environment == "production" %}
+            <img src="{{ post.thumb | prepend: site.url }}" alt="{{ post.title }}"/>
+          {% else %}
+            <img src="{{ post.thumb | prepend: site.baseurl | prepend: site.url }}" alt="{{ post.title }}"/>
+          {% endif %}
+        </header>
+        <div class="book-post--content">
+          {{ post.content }}
+        </div>
+        <footer>
+          <a href="{{ post.link }}" class="button--pill--next--gray">Book Website</a>
+        </footer>
+      </article>
     {% endfor %}
-    </ul>
   </div>
 </div>
 <div class="sub-footer">
