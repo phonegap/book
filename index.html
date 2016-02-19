@@ -3,28 +3,33 @@ layout: default
 title: PhoneGap Books
 ---
 {% include subheader.html %}
-<div class="bounds--blog">
-  <div class="blog-post__preview-list">
-    <!-- This loops through the posts -->
-    {% for post in site.posts %}
-      <article>
-        <header>
-          <h1>{{ post.title }}</h1>
-          {% if jekyll.environment == "production" %}
-            <img src="{{ post.thumb | prepend: site.url }}" alt="{{ post.title }}"/>
-          {% else %}
-            <img src="{{ post.thumb | prepend: site.baseurl | prepend: site.url }}" alt="{{ post.title }}"/>
-          {% endif %}
-        </header>
-        <div class="book-post--content">
+<div class="bounds">
+  <!-- This loops through the posts -->
+  {% for post in site.posts %}
+    <article class="book">
+      <header>
+        <h1 class="book__title">{{ post.title }}</h1>
+      </header>
+      <div class="book__content">
+        <div class="book__image">
+          <a href="{{ post.link }}">
+            {% if jekyll.environment == "production" %}
+              <img src="{{ post.thumb | prepend: site.url }}" alt="{{ post.title }}"/>
+            {% else %}
+              <img src="{{ post.thumb }}" alt="{{ post.title }}"/>
+            {% endif %}
+          </a>
+        </div>
+        <div class="book__description">
+          <div class="book__author">by {{ post.author }}</div>
           {{ post.content }}
         </div>
-        <footer>
-          <a href="{{ post.link }}" class="button--pill--next--gray">Book Website</a>
-        </footer>
-      </article>
-    {% endfor %}
-  </div>
+      </div>
+      <footer class="book__footer">
+        <a href="{{ post.link }}" class="book__link button--pill--next--gray">Book Website</a>
+      </footer>
+    </article>
+  {% endfor %}
 </div>
 <div class="sub-footer">
   <div class="bounds">
