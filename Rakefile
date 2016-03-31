@@ -176,7 +176,7 @@ task :test do
     :typhoeus => {
       :followlocation => true,
       :ssl_verifypeer => false,
-      :headers => { 'User-Agent' => 'html-proofer' }
+      :headers => { "User-Agent" => "Mozilla/5.0 (compatible; My New User-Agent)" }
     }
   }).run
 end
