@@ -1,4 +1,4 @@
---- 
+---
 date: 2013-01-01 00:00:00 Z
 title: Exploring PhoneGap
 email: exploringphonegap@gmail.com
@@ -6,7 +6,6 @@ publish_month: "01"
 author: Xia Rao, Jian Zhang, Liping Zhao
 link: http://book.360buy.com/11162059.html
 publisher: Turing Book
-permalink: /book/exploring-phonegap
 thumb: /uploads/2013-02/2013-01-01-exploring-phonegap.jpg
 publish_year: "2013"
 type: book

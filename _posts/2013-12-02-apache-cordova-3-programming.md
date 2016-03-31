@@ -1,9 +1,8 @@
---- 
+---
 status: publish
 publish_date: "2"
 thumb: /uploads/2013-12/2013-12-02-apache-cordova-3-programming.png
 publish_year: "2013"
-permalink: /book/apache-cordova-3-programming
 link: http://www.cordovaprogramming.com
 publish_month: "12"
 type: book

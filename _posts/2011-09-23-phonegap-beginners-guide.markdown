@@ -4,7 +4,6 @@ thumb: /uploads/phonegap-beginners-guide.jpg
 status: publish
 type: book
 title: PhoneGap Beginner's Guide
-permalink: /book/phonegap-beginners-guide
 author: Andrew Lunny
 publisher: Packt Publishing
 link: http://www.amazon.com/PhoneGap-Beginners-Guide-Andrew-Lunny/dp/1849515360/

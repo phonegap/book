@@ -1,11 +1,10 @@
---- 
+---
 link: http://www.cordova4programming.com/
 type: book
 publish_year: "2015"
 publish_month: "04"
 title: Apache Cordova 4 Programming
 author: John M. Wargo
-permalink: /book/apache-cordova-4-programming
 publish_date: "1"
 publisher: Addison-Wesley Professional
 email: john@johnwargo.com

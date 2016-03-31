@@ -1,5 +1,4 @@
 ---
-permalink: /book/phonegap-unleashed
 status: publish
 author: Justin Biper
 type: book

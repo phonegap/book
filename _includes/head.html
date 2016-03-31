@@ -17,7 +17,7 @@
     <script src="{{ '/scripts/mobile_nav.js' | prepend: site.url }}"></script>
   {% endif %}
   {% for js_name in page.extra_js %}
-    <script src="{{ js_name | prepend: '/app/scripts/' }}"></script>
+    <script src="{{ js_name | prepend: '/book/scripts/' }}"></script>
   {% endfor %}
   <link rel="stylesheet" type="text/css" href="{{ '/styles/main.css' | prepend: site.url }}"/>
   <style type="text/css">

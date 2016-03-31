@@ -1,8 +1,7 @@
---- 
+---
 publisher: Packt Publishing
 link: http://www.packtpub.com/building-mobile-applications-using-phonegap-with-the-geolocation-api/book
 publish_year: "2014"
-permalink: /book/instant-phonegap
 publish_month: "01"
 type: book
 title: Instant PhoneGap

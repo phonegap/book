@@ -1,8 +1,7 @@
---- 
+---
 publish_date: "1"
 publish_month: "01"
 author: DILEEP YADAV
-permalink: /book/plugbunch
 link: http://www.plugbunch.com/
 status: publish
 publisher: PlugBunch.com

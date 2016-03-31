@@ -1,5 +1,4 @@
---- 
-permalink: /book/phonegap-3-x-mobile-application-development
+---
 publisher: Packt Publishing
 title: PhoneGap 3.x Mobile Application Development
 highlight: true

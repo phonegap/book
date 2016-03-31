@@ -1,9 +1,8 @@
---- 
+---
 date: 2014-12-21 00:00:00 Z
 status: publish
 publish_date: "21"
 title: Getting Started with PhoneGap 4
-permalink: /book/getting-started-with-phonegap-4
 publish_year: "2014"
 type: book
 author: Matthew Ray

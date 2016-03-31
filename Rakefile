@@ -158,6 +158,7 @@ task :test do
     :url_ignore => [
       /\/app\/?/,
       /\/blog\/?/,
+      '/book/',
       '/tool/',
       '/event/',
       '/getstarted/',

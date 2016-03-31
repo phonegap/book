@@ -1,11 +1,10 @@
---- 
+---
 date: 2012-02-22 00:00:00 Z
 thumb: /uploads/2012-07/2012-02-22-beginning-phonegap-mobile-web-framework-for-javascript-and-html5.jpg
 status: publish
 type: book
 publish_date: "22"
 publish_year: "2012"
-permalink: /book/beginning-phonegap-mobile-web-framework-for-javascript-and-html5
 author: Rohit Ghatol , Yogesh Patel
 publisher: Apress, Inc.
 email: ""

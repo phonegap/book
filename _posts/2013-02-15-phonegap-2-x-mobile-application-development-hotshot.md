@@ -1,4 +1,4 @@
---- 
+---
 publisher: Packt Publishing
 publish_year: "2013"
 status: publish
@@ -9,7 +9,6 @@ author: Kerri Shotts
 link: http://www.packtpub.com/phonegap-2-mobile-application-hotshot/book
 thumb: /uploads/2013-02/2013-02-15-phonegap-2-x-mobile-application-development-hotshot.jpg
 type: book
-permalink: /book/phonegap-2-x-mobile-application-development-hotshot
 email: jiteshg@packtpub.com
 date: 2013-02-15 00:00:00 Z
 ---

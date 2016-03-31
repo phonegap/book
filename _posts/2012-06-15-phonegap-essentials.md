@@ -1,11 +1,10 @@
---- 
+---
 thumb: /uploads/2012-06/2012-06-15-phonegap-essentials.jpeg
 type: book
 publisher: Addison-Wesley Professional
 email: yohei@adobe.com
 author: John M. Wargo
 title: PhoneGap Essentials
-permalink: /book/phonegap-essentials
 date: 2012-06-11 12:58:53.663330 -07:00
 link: http://www.phonegapessentials.com/
 status: publish

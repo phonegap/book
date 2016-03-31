@@ -3,7 +3,6 @@ author: Ralph Steyer
 publish_date: "14"
 title: Apps mit PhoneGap entwickeln
 publish_month: "02"
-permalink: /book/apps-mit-phonegap-entwickeln
 status: publish
 publisher: Carl Hanser Verlag GmbH & Co. KG
 date: 2013-02-14 00:00:00 Z

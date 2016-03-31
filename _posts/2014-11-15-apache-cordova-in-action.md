@@ -1,7 +1,6 @@
---- 
+---
 publish_date: "15"
 title: Apache Cordova in Action
-permalink: /book/apache-cordova-in-action
 type: book
 link: http://www.manning.com/camden/
 email: aldr@manning.com

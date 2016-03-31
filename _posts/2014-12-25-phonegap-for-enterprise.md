@@ -1,7 +1,6 @@
---- 
+---
 publish_year: "2014"
 thumb: /uploads/2015-01/2014-12-25-phonegap-for-enterprise.jpg
-permalink: /book/phonegap-for-enterprise
 email: joannef@packtpub.com
 status: publish
 publish_month: "12"

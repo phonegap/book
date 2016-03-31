@@ -1,7 +1,6 @@
---- 
+---
 publish_date: "25"
 date: 2014-01-25 00:00:00 Z
-permalink: /book/phonegap-build-starter
 email: just.my.freak@gmail.com
 publish_year: "2014"
 title: PhoneGap Build Starter

@@ -1,8 +1,7 @@
---- 
+---
 date: 2013-04-25 00:00:00 Z
 publisher: Withinsight
 title: "Mobile App Manual: The Blueprint"
-permalink: /book/mobile-app-manual-the-blueprint
 link: http://mobileappmanual.com
 status: publish
 publish_year: "2013"

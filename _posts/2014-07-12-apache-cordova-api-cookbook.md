@@ -1,7 +1,6 @@
---- 
+---
 publish_year: "2014"
 type: book
-permalink: /book/apache-cordova-api-cookbook
 publish_month: "07"
 title: Apache Cordova API Cookbook
 author: John M. Wargo

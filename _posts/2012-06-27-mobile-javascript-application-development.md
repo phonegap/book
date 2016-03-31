@@ -1,4 +1,4 @@
---- 
+---
 status: publish
 publish_date: "27"
 date: 2012-06-27 00:00:00 Z
@@ -11,7 +11,6 @@ publish_year: "2012"
 type: book
 publisher: O'Reilly Media
 link: http://shop.oreilly.com/product/0636920025252.do
-permalink: /book/mobile-javascript-application-development
 ---
 
 When developing apps for the latest smartphones, you’re faced with several vexing questions. How many platforms do you need to accommodate? What level of support do mobile browsers provide? To help you address these and many other key issues, this guide provides a hands-on tour of the most powerful JavaScript frameworks available today.
