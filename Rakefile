@@ -152,7 +152,7 @@ end
 # rake test
 desc "build and test website"
 task :test do
-  sh "bundle exec jekyll build"
+  sh "bundle exec jekyll build --config _config-test.yml"
   HTMLProofer.check_directory("./_site", {
     :empty_alt_ignore => true,
     :url_ignore => [

@@ -1,0 +1,18 @@
+title: Books
+description: Read about your favorite open source mobile app framework
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://phonegap.com" # the base hostname & protocol for your site
+
+gems:
+  - jekyll-coffeescript
+
+exclude: [vendor, Gemfile, Gemfile.lock, LICENSE, Rakefile, README.md]
+
+post:
+  template: _post.txt
+  extension: md
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
