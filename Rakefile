@@ -168,7 +168,8 @@ task :test do
       '/about/license/',
       '/about/logos/',
       /\/getstarted\/?/,
-      /\/products\/?/
+      /\/products\/?/,
+      'http://mobileappmanual.com/'
     ],
     :cache => {
       :timeframe => '1d'
@@ -176,7 +177,7 @@ task :test do
     :typhoeus => {
       :followlocation => true,
       :ssl_verifypeer => false,
-      :headers => { "User-Agent" => "Mozilla/5.0 (compatible; My New User-Agent)" }
+      :headers => { 'User-Agent' => 'html-proofer' }
     }
   }).run
 end
