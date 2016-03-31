@@ -1,5 +1,5 @@
 --- 
-thumb: /uploads/book/2012-06/2012-06-15-phonegap-essentials.jpeg
+thumb: /uploads/2012-06/2012-06-15-phonegap-essentials.jpeg
 type: book
 publisher: Addison-Wesley Professional
 email: yohei@adobe.com

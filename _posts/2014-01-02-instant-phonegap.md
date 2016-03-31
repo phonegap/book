@@ -10,7 +10,7 @@ author: Gustavo De La Vega Alvarez
 date: 2014-01-02 00:00:00 Z
 publish_date: "2"
 status: publish
-thumb: /uploads/book/2014-03/2014-01-02-instant-phonegap.png
+thumb: /uploads/2014-03/2014-01-02-instant-phonegap.png
 email: jiteshg@packtpub.com
 ---
 

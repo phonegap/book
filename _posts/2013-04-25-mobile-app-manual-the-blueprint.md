@@ -9,7 +9,7 @@ publish_year: "2013"
 author: Jeff Pelletier
 type: book
 publish_month: "04"
-thumb: /uploads/book/2013-05/2013-04-25-mobile-app-manual-the-blueprint.jpg
+thumb: /uploads/2013-05/2013-04-25-mobile-app-manual-the-blueprint.jpg
 publish_date: "25"
 email: withinsightdesign@gmail.com
 ---

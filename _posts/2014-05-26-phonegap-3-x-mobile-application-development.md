@@ -4,7 +4,7 @@ publisher: Packt Publishing
 title: PhoneGap 3.x Mobile Application Development
 highlight: true
 type: book
-thumb: /uploads/book/2014-06/2014-05-26-phonegap-3-x-mobile-application-development.jpg
+thumb: /uploads/2014-06/2014-05-26-phonegap-3-x-mobile-application-development.jpg
 date: 2014-05-26 00:00:00 Z
 publish_year: "2014"
 publish_month: "05"

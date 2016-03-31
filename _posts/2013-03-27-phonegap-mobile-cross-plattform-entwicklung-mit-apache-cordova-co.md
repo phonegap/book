@@ -5,7 +5,7 @@ publisher: dPunkt Verlag
 type: book
 permalink: /book/phonegap-mobile-cross-plattform-entwicklung-mit-apache-cordova-co
 publish_date: "27"
-thumb: /uploads/book/2013-05/2013-03-27-phonegap-mobile-cross-plattform-entwicklung-mit-apache-cordova-co.png
+thumb: /uploads/2013-05/2013-03-27-phonegap-mobile-cross-plattform-entwicklung-mit-apache-cordova-co.png
 author: Marcus Ross
 status: publish
 link: http://phonegapbuch.de/

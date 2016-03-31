@@ -7,7 +7,7 @@ permalink: /book/getting-started-with-phonegap-4
 publish_year: "2014"
 type: book
 author: Matthew Ray
-thumb: /uploads/book/2015-01/2014-12-21-getting-started-with-phonegap-4.jpg
+thumb: /uploads/2015-01/2014-12-21-getting-started-with-phonegap-4.jpg
 publisher: CreateSpace Independent Publishing Platform
 publish_month: "12"
 email: themattray@gmail.com

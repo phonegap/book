@@ -2,7 +2,7 @@
 status: publish
 publish_date: "27"
 date: 2012-06-27 00:00:00 Z
-thumb: /uploads/book/2012-10/2012-06-27-mobile-javascript-application-development.gif
+thumb: /uploads/2012-10/2012-06-27-mobile-javascript-application-development.gif
 author: Adrian Kosmaczewski
 title: Mobile JavaScript Application Development
 publish_month: "06"

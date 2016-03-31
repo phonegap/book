@@ -2,7 +2,7 @@
 status: publish
 publish_date: "1"
 date: 2012-11-01 00:00:00 Z
-thumb: /uploads/book/2012-10/2012-11-01-phonegap-mobile-application-development-cookbook.png
+thumb: /uploads/2012-10/2012-11-01-phonegap-mobile-application-development-cookbook.png
 author: Matt Gifford
 publish_month: "11"
 title: PhoneGap Mobile Application Development Cookbook

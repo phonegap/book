@@ -9,7 +9,7 @@ date: 2014-07-12 00:00:00 Z
 status: publish
 publisher: Pearson Education
 highlight: true
-thumb: /uploads/book/2014-07/2014-07-12-apache-cordova-api-cookbook.png
+thumb: /uploads/2014-07/2014-07-12-apache-cordova-api-cookbook.png
 email: john@johnwargo.com
 link: http://www.cordovacookbook.com
 publish_date: "12"

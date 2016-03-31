@@ -7,7 +7,7 @@ title: PhoneGap 2.x Mobile Application Development Hotshot
 publish_date: "15"
 author: Kerri Shotts
 link: http://www.packtpub.com/phonegap-2-mobile-application-hotshot/book
-thumb: /uploads/book/2013-02/2013-02-15-phonegap-2-x-mobile-application-development-hotshot.jpg
+thumb: /uploads/2013-02/2013-02-15-phonegap-2-x-mobile-application-development-hotshot.jpg
 type: book
 permalink: /book/phonegap-2-x-mobile-application-development-hotshot
 email: jiteshg@packtpub.com

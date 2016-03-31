@@ -8,7 +8,7 @@ title: PhoneGap Build Starter
 author: Zainul Setyo Pamungkas
 link: https://leanpub.com/phonegapbuild
 highlight: true
-thumb: /uploads/book/2014-02/2014-01-25-phonegap-build-starter.jpg
+thumb: /uploads/2014-02/2014-01-25-phonegap-build-starter.jpg
 publish_month: "01"
 type: book
 status: publish

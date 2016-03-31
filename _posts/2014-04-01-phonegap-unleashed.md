@@ -1,4 +1,4 @@
---- 
+---
 permalink: /book/phonegap-unleashed
 status: publish
 author: Justin Biper
@@ -6,7 +6,7 @@ type: book
 publish_date: "1"
 date: 2014-04-01 00:00:00 Z
 publisher: Selina comez
-thumb: /uploads/book/2015-11/2014-04-01-phonegap-unleashed.jpg
+thumb: /uploads/2015-11/2014-04-01-phonegap-unleashed.jpg
 publish_year: "2014"
 email: afakeemail@gmail.com
 link: http://www.sitepoint.com/oriented-programming-1-4/

@@ -9,7 +9,7 @@ permalink: /book/apache-cordova-4-programming
 publish_date: "1"
 publisher: Addison-Wesley Professional
 email: john@johnwargo.com
-thumb: /uploads/book/2015-04/2015-04-01-apache-cordova-4-programming.png
+thumb: /uploads/2015-04/2015-04-01-apache-cordova-4-programming.png
 date: 2015-04-01 00:00:00 Z
 status: publish
 ---

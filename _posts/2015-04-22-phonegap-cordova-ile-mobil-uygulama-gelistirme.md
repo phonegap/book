@@ -9,7 +9,7 @@ publish_date: "22"
 status: publish
 publish_month: "04"
 type: book
-thumb: /uploads/book/2015-04/2015-04-22-phonegap-cordova-ile-mobil-uygulama-gelistirme.jpg
+thumb: /uploads/2015-04/2015-04-22-phonegap-cordova-ile-mobil-uygulama-gelistirme.jpg
 publish_year: "2015"
 email: egemenmede@gmail.com
 ---

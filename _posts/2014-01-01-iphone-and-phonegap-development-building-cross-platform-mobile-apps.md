@@ -5,7 +5,7 @@ link: https://play.google.com/store/books/details/Ji%C5%99%C3%AD_V%C3%A1vr%C5%AF
 publish_date: "1"
 status: publish
 email: phonetoaster@gmail.com
-thumb: /uploads/book/2014-02/2014-01-01-iphone-and-phonegap-development-building-cross-platform-mobile-apps.jpeg
+thumb: /uploads/2014-02/2014-01-01-iphone-and-phonegap-development-building-cross-platform-mobile-apps.jpeg
 publish_year: "2014"
 date: 2014-01-01 00:00:00 Z
 type: book

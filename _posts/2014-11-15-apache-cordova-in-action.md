@@ -6,7 +6,7 @@ type: book
 link: http://www.manning.com/camden/
 email: aldr@manning.com
 publisher: Manning Publications
-thumb: /uploads/book/2014-11/2014-11-15-apache-cordova-in-action.jpg
+thumb: /uploads/2014-11/2014-11-15-apache-cordova-in-action.jpg
 status: publish
 publish_month: "11"
 highlight: true
