@@ -2,7 +2,7 @@
 date: 2013-04-25 00:00:00 Z
 publisher: Withinsight
 title: "Mobile App Manual: The Blueprint"
-link: http://mobileappmanual.com
+link: http://mobileappmanual.com/
 status: publish
 publish_year: "2013"
 author: Jeff Pelletier
