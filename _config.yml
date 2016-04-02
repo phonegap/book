@@ -5,6 +5,7 @@ url: "http://phonegap.com" # the base hostname & protocol for your site
 
 gems:
   - jekyll-coffeescript
+  - jekyll-sitemap
 
 exclude: [vendor, Gemfile, Gemfile.lock, LICENSE, Rakefile, README.md]
 
