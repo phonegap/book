@@ -2,7 +2,7 @@
 thumb: /uploads/2015-12/PhoneGap-Beginners-Guide-third-Edition.jpg
 status: publish
 type: book
-title: PhoneGap: Beginner's Guide - Third Edition
+title: PhoneGap Beginner's Guide - Third Edition
 author: Purusothaman Ramanujam, Giorgio Natili
 publisher: Packt Publishing
 link: https://www.packtpub.com/application-development/phonegap-beginners-guide-third-edition
