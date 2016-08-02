@@ -1,5 +1,5 @@
 ---
-thumb: /uploads/2015-12/PhoneGap_Beginner's_Guide_Third_Edition.jpg
+thumb: /uploads/2015-12/PhoneGap-Beginners-Guide-third-Edition.jpg
 status: publish
 type: book
 title: PhoneGap: Beginner's Guide - Third Edition
