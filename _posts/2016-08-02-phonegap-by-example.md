@@ -1,5 +1,5 @@
 ---
-thumb: /uploads/2015-12/PhoneGap_By_Example.jpg
+thumb: /uploads/2015-12/PhoneGap-by-Example.jpg
 status: publish
 type: book
 title: PhoneGap by Example
