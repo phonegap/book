@@ -1,18 +1,16 @@
 language: node_js
 node_js:
-  - "4.2"
+- '4.2'
 before_script:
-  - rvm install 2.2.3
-  - bundle install
+- rvm install 2.2.3
+- bundle install
 script:
-  - npm run lint
-  - bundle exec rake test
+- npm run lint
+- bundle exec rake test
 sudo: false
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 notifications:
   slack:
-    secure: aPSxTv5df576zSV9Sn+yLrp76EdK3yqSfvtTCWkaj3XNJPGpgUPMGC3XYKubPYnyjcbP7YAkXk2ui+aR9ipoN4Vb3r8rWa714lRK2mm3fbL+vqh8t9RZZK0Eqc77jvcmyvaJPEq8hAzJvavK4xDv+wL3sSqBFvqfBjsZfAw2G+1B4AGzlLVxmQh6VanFLCbi4s/7LvEE4CjrIKpt42cYRU46HOrxLmYBn6mYrvVv/zLlCM6i/7DOcuMz6weYZpjbsL/KRx65q3BM/GKnzzQB7oRfP4UXgsnJ1+xMTy1mlb7Tqf4TZQ15Mk/AL3zil7UxLbcAW6xG0OZ+yPtnayb8tgpdTJ3Yxa+EdD67h7bQH9F7y4bkeiHkBHJIx+4farFwq2eOcnN1Fu3P2nQwpEhWhaiFak2KpZUkm4J5qLGu1JU056go/hARlm4fEHq/mTVGjwgSMk1injpywuxkWtNH6wcBEluW66jcpPN0Dvc2u9hw1NUt9W5ZD4U/c21PMxPf/KsJ7EDBiQCibJNE9pHp9gfWi31o4pEj7niSNKlTFefQr+QXwbrCwvG/F2QvDT2PrxyFKsZo55yDk4OWZb+aCOVLPaAhpphmiUqqkKDtRNkxfAT+Y8Sh0+yvCx3mGx7idFADiWcAdq9QkRFBke4XnIHfcOYENxt+VMGPqEXy5gU=
-  email:
-  - PhoneGapCI@adobe.com
+    secure: MLjJFt1IlyxcsSo2KBHwFuE8U8pnDt2g6u2/AN0PdNi2xT1Y2IeG29RL4McfMJqtAyhbEw/029cOmzQPky6/87EHz+MB3p9TpGgXOLg0G0hdrrymHo6Xzlh/Mu8ayu6+c8Nl0/ctdKuv90kOBk3evJEqlO7P+I2uEJfE6FmsPUmynZPvH3lrBx01CRUVfh5UyxkWLrE78iEFEQqvEHKDB7cx0Rmc1uuaPIc51JH2T/sZ3PVdRTcjQjg6A8wMbX2LoAn3nACNSCsGGKiOa6FNSNsG+1TgwaffqfJegfYDtDDGB0kUXBigxlRh5lY9H4b05vbYeyzDfQm7aIUoeDIFR9TGJxWc311jmYUimbqF+A3c13q1IPzIVd9XBtgGtYGtXS9zISNckuK8pS7dObtJjlAYH19UkD+LgCeOyKF2oKlzGZ29WSgFrG18mTBnruL4105u1Hdc/HT2bXWdDIYhQSLKnIGHeIuxPLNCL/P0gknEeR8FRfxA95zjjlTTqyom/IkBaC7J5LGGaLN9z6DQkgQEUaAGY2ehY6SJ4tRCiOVsuBHCwfuNHJFAWSbTFfZEJzCetEFeRIbXa6hHmNAolXDjFuuSWLXbQnE+48i5AsHfCXAshBt+LBhZOUzZK5XMUYgQ5EHWwl8nsyI0c6+B5bjJxa+I14ynU5YIC18JbVg=
